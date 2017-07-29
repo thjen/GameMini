@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IntentExercise</string>
+
+    <string-array name="list_name">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>ten</item>
+        <item>eleven</item>
+        <item>twelve</item>
+        <item>thirteen</item>
+        <item>fourteen</item>
+        <item>fifteen</item>
+        <item>sixteen</item>
+        <item>seventeen</item>
+        <item>eighteen</item>
+    </string-array>
+
+</resources>
